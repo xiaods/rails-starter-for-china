@@ -45,6 +45,8 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 2. recordmydesktop - 录屏软件
 3. Kdenlive - 非线性视频编辑工具，最终合成使用
 4. itouch - 录音工具
+5. Logo制作工具 - http://www.flamingtext.com/imagebot
+6. GIMP 2.8 - 图片编辑工具
 
 Rails培训课程合集
 ------------------
