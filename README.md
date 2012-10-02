@@ -18,10 +18,15 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 </tr>
 <tr>
 <td>2</td><td>Models</td><td>TBD</td>
+</tr><tr>
 <td>3</td><td>Views</td><td>TBD</td>
+</tr><tr>
 <td>4</td><td>Controllers</td><td>TBD</td>
+</tr><tr>
 <td>5</td><td>Digging Deeper</td><td>TBD</td>
+</tr><tr>
 <td>6</td><td>Extending Rails</td><td>TBD</td>
+</tr><tr>
 <td>7</td><td>Contributing to Ruby on Rails</td><td>TBD</td>
 </tr>
 </table>
