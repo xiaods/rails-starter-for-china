@@ -48,6 +48,13 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 5. Logo制作工具 - http://www.flamingtext.com/imagebot
 6. GIMP 2.8 - 图片编辑工具
 
+Rails优秀中文视频合集
+----------------------
+1. [RailsCasts China](http://railscasts-china.com/) by
+   [poshboytl](http://ruby-china.org/poshboytl)
+2. [HappyCasts](http://happycasts.net/) by
+   [happypeter](http://ruby-china.org/happypeter)
+
 Rails培训课程合集
 ------------------
 
