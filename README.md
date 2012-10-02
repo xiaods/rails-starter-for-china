@@ -31,17 +31,18 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 </tr>
 </table>
 
-资源参考
+教学资源参考
 -------------------
 
-教学内容完全基于[Rails Guide]，教学方式参考[Khan Academy Computer Science].
-新手数据挖掘库基于RubyChina社区的[新手问题]
+教学内容完全基于[Rails Guide](http://guides.rubyonrails.org)，教学方式参考[Khan Academy Computer Science](http://www.khanacademy.org/cs).新手数据挖掘库基于RubyChina社区的[新手问题](http://ruby-china.org/topics/node52)
 
-  [1]: http://guides.rubyonrails.org  "Rails Guide"
-  [2]: http://www.khanacademy.org/cs  "Khan Academy Computer Science"
-  [3]: http://ruby-china.org/topics/node52 "新手问题"
+课程制作工具
+------------------
+1. Fedora 16 - 我的工作系统
+2. recordmydesktop - 录屏软件
+3. Kdenlive - 非线性视频编辑工具，最终合成使用
 
-优秀培训课程
+Rails培训课程合集
 ------------------
 
 1. Owning Rails - [介绍](http://wp.xdite.net/?p=2407)
