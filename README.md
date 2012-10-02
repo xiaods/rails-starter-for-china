@@ -14,7 +14,8 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 <th>Index</th><th>Name</th><th>Memo</th>
 </tr>
 <tr>
-<td>1</td><td>Start Here</td><td>重新认识Rails Web开发框架,开发中</td>
+<td>1</td><td>Start Here</td><td>重新认识Rails
+Web开发框架,[开发进度](https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834)</td>
 </tr>
 <tr>
 <td>2</td><td>Models</td><td>TBD</td>
@@ -47,6 +48,7 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 4. itouch - 录音工具
 5. Logo制作工具 - http://www.flamingtext.com/imagebot
 6. GIMP 2.8 - 图片编辑工具
+7. trello - 协同看板
 
 Rails优秀中文视频合集
 ----------------------
