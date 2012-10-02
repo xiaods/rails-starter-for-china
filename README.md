@@ -60,7 +60,10 @@ Rails优秀中文视频合集
 Rails培训课程合集
 ------------------
 
-1. Owning Rails - [介绍](http://wp.xdite.net/?p=2407)
+1. [Owning Rails](http://owningrails.com/) - [介绍](http://wp.xdite.net/?p=2407)
+2. [Code School](http://www.codeschool.com/) - "Code School is seriously bad-ass, next-generation learning." quotes from DHH
+3. [railstutors](http://www.railstutors.com/) - by ruby-china社区的[Kevin Wang]主持(http://ruby-china.org/knwang)
+4. [railscasts](http://railscasts.com/) - RailsCasts is produced by Ryan Bates.是神，膜拜吧!
 
 Committer
 -----------------
