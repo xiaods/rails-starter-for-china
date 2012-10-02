@@ -36,6 +36,8 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 
 教学内容完全基于[Rails Guide](http://guides.rubyonrails.org)，教学方式参考[Khan Academy Computer Science](http://www.khanacademy.org/cs).新手数据挖掘库基于RubyChina社区的[新手问题](http://ruby-china.org/topics/node52)
 
+1. [Agile Web Development with Rails](http://pragprog.com/book/rails4/agile-web-development-with-rails)
+
 课程制作工具
 ------------------
 1. Fedora 16 - 我的工作系统
