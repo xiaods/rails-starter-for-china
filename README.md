@@ -15,7 +15,7 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 </tr>
 <tr>
 <td>1</td><td>Start Here</td><td>重新认识Rails
-Web开发框架,[开发进度](https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834)</td>
+Web开发框架,<a href="https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834" >开发进度</a></td>
 </tr>
 <tr>
 <td>2</td><td>Models</td><td>TBD</td>
