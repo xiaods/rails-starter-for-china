@@ -36,9 +36,19 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 
 教学内容完全基于[Rails Guide]，教学方式参考[Khan Academy Computer Science].
 新手数据挖掘库基于RubyChina社区的[新手问题]
+
   [1]: http://guides.rubyonrails.org  "Rails Guide"
   [2]: http://www.khanacademy.org/cs  "Khan Academy Computer Science"
   [3]: http://ruby-china.org/topics/node52 "新手问题"
 
+优秀培训课程
+------------------
 
-活着，就是为了更美好的生活！
+1. Owning Rails - [介绍](http://wp.xdite.net/?p=2407)
+
+Committer
+-----------------
+1. [xds2000](http://ruby-china.org/xds2000)
+
+
+> 活着就是享受大自然的恩赐，活着就是为了别人更好的活着。
