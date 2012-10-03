@@ -49,6 +49,8 @@ Web开发框架,<a href="https://trello.com/board/start-here-rails-web/506ad8d26
 5. Logo制作工具 - http://www.flamingtext.com/imagebot
 6. GIMP 2.8 - 图片编辑工具
 7. trello - 协同看板
+8. Audacity - 声音降噪工具
+9. Faad - m4a to wav 转换工具
 
 Rails优秀中文视频合集
 ----------------------
