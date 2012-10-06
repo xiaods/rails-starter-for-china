@@ -2,6 +2,7 @@ Rails Start Here
 ============================
 
 Topic: 重新认识Rails Web开发框架
+http://railscasts-china.com/episodes/rails-starter-c1-starter-here?autoplay=true
 
 Chapters include:
 ------------------

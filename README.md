@@ -14,8 +14,7 @@ newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
 <th>Index</th><th>Name</th><th>Memo</th>
 </tr>
 <tr>
-<td>1</td><td><a
-href="http://www.tudou.com/programs/view/j2x7SiwFQsc/" >Start Here</a></td><td>1.<a
+<td>1</td><td><a href="http://railscasts-china.com/episodes/rails-starter-c1-starter-here" >Start Here</a></td><td>1.<a
 href="https://speakerdeck.com/u/xds2000/p/c1-textbook">重新认识Rails
 Web开发框架</a>,2.<a href="https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834" >制作过程</a></td>
 </tr>
