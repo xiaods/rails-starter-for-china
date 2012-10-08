@@ -3,35 +3,12 @@ rails-starter-for-china
 开源课程- Rails Starter 2012,做最好的Rails入门课程
 --------------------------------------------------
 
-(*Why i develop this rails cource for china
-newbies*)[前传](http://xiaods.github.com/rails-starter-for-china/)
-
 课程目录(Course Catalogue)
 ---------------------------
+*RailsCasts-China Support*
 
-<table>
-<tr>
-<th>Index</th><th>Name</th><th>Memo</th>
-</tr>
-<tr>
-<td>1</td><td><a href="http://railscasts-china.com/episodes/rails-starter-c1-starter-here" >Start Here</a></td><td>1.<a
-href="https://speakerdeck.com/u/xds2000/p/c1-textbook">重新认识Rails
-Web开发框架</a>,2.<a href="https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834" >制作过程</a></td>
-</tr>
-<tr>
-<td>2</td><td>Models</td><td>TBD</td>
-</tr><tr>
-<td>3</td><td>Views</td><td>TBD</td>
-</tr><tr>
-<td>4</td><td>Controllers</td><td>TBD</td>
-</tr><tr>
-<td>5</td><td>Digging Deeper</td><td>TBD</td>
-</tr><tr>
-<td>6</td><td>Extending Rails</td><td>TBD</td>
-</tr><tr>
-<td>7</td><td>Contributing to Ruby on Rails</td><td>TBD</td>
-</tr>
-</table>
+1. [制作过程](https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834)
+2. [课程列表](http://xiaods.github.com/rails-starter-for-china/)
 
 教学资源参考
 -------------------
@@ -71,6 +48,21 @@ Rails培训课程合集
 Committer
 -----------------
 1. [xds2000](http://ruby-china.org/xds2000)
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Added some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
+## License
+
+Released under the MIT License. See the [LICENSE][license] file for further
+details.
+
+[license]: https://github.com/xiaods/rails-starter-for-china/blob/master/LICENSE
 
 
 > 活着就是享受大自然的恩赐，活着就是为了别人更好的活着。
