@@ -1,17 +1,14 @@
-rails-starter-for-china
-================================
+# Rails Starter For China
 开源课程- Rails Starter 2012,做最好的Rails入门课程
---------------------------------------------------
 
-课程目录(Course Catalogue)
----------------------------
-*RailsCasts-China Support*
+## 课程目录(Course Catalogue)
 
-1. [制作过程](https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834)
+*感谢RailsCasts-China提供视频发布栖息地！*
+
+1. [过程追踪](https://trello.com/board/start-here-rails-web/506ad8d2653f0b062471e834)
 2. [课程列表](http://xiaods.github.com/rails-starter-for-china/)
 
-教学资源参考
--------------------
+## 教学资源参考
 
 教学内容完全基于[Rails Guide](http://guides.rubyonrails.org)，教学方式参考[Khan Academy Computer Science](http://www.khanacademy.org/cs).新手数据挖掘库基于RubyChina社区的[新手问题](http://ruby-china.org/topics/node52)
 
