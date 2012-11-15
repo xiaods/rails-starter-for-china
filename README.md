@@ -1,7 +1,7 @@
 # Rails Starter For China
 开源课程- Rails Starter 2012,做最好的Rails入门课程
 
-## 课程目录(Course Catalogue)
+## 课程大纲(Course Syllabus)
 
 *感谢RailsCasts-China提供视频发布栖息地！*
 
