@@ -1,5 +1,5 @@
 # Rails Starter For China
-开源课程- Rails Starter 2012,做最好的Rails入门课程
+开源课程 -> 做最好的Rails入门课程
 
 ## 课程大纲(Course Syllabus)
 
@@ -59,7 +59,7 @@ Committer
 Released under the MIT License. See the [LICENSE][license] file for further
 details.
 
-[license]: https://github.com/xiaods/rails-starter-for-china/blob/master/LICENSE
+[license]: xiaods.mit-license.org
 
 
 > 活着就是享受大自然的恩赐，活着就是为了别人更好的活着。
