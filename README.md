@@ -59,7 +59,7 @@ Committer
 Released under the MIT License. See the [LICENSE][license] file for further
 details.
 
-[license]: xiaods.mit-license.org
+[license]: http://xiaods.mit-license.org
 
 
 > 活着就是享受大自然的恩赐，活着就是为了别人更好的活着。
