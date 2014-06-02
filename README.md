@@ -1,6 +1,9 @@
 # Rails Starter For China
 开源课程 -> 做最好的Rails入门课程
 
+加入微信号：Rails Starter的小助手
+![weixin logo](./logo/qrcode_for_starter.jpg)
+
 ## 课程大纲(Course Syllabus)
 
 *感谢RailsCasts-China提供视频发布栖息地！*
